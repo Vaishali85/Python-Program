@@ -1,0 +1,19 @@
+1       2       3
+8       9       4
+7        6        5
+
+
+00   01       02
+10     11      12
+20     21       22
+count=1
+while count<=25
+
+for i = 0 increment j by 1 till last column-->last column
+print(count) and count+=1
+for keep j constant(last column)and increment i--> last row
+print(count) and count+=1
+for i=2  and j value decrement by 1--> first column 
+print(count) and count+=1
+for j=0 and i value decrement by 1 -->
+print(count) and count +=1
